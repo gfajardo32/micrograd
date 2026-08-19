@@ -2,6 +2,9 @@
 
 A scalar autograd engine and a small neural net library, built from scratch.
 
+**[Try it live](https://gfajardo32.github.io/micrograd/)** — draw a digit with your
+mouse and watch a 1,210-parameter network read it. 95.83% on held-out images.
+
 ## Credit
 
 This is not original work. It is a learning exercise, typed out and worked
